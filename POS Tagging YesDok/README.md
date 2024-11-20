@@ -12,11 +12,11 @@ This repository contains the results of POS tagging analysis performed on YesDok
 | 3    | yesdok       | 2615      |
 | 4    | konsultasi   | 2541      |
 | 5    | dokter       | 2210      |
-| 6    | kesehatan    |           |
-| 7    | fitur        |           |
-| 8    | layanan      |           |
-| 9    | pengguna     |           |
-| 10   | informasi    |           |
+| 6    | bagu         | 2099      |
+| 7    | kesehatan    | 1934      |
+| 8    | bermanfaat   | 1225      |
+| 9    | aplikasinya  | 849       |
+| 10   | mudah        | 844       |
 
 ## Key Observations
 
